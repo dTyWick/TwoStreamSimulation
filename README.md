@@ -1,9 +1,9 @@
 # TwoStreamSimulation
 
 
-    
 <p align="center">
-  <img src="figs/growth_rate_plot.png" width="100%" />
+  <img src="figs/phase_space_evolution.png" width="45%" /> 
+  <img src="figs/growth_rate_plot.png" width="45%" />  
 </p>
 
 A simple first order weighting PIC simulation for the two stream plasma instability. Here the ions are initially at rest with density equal to the electrons, who have some initial drift velocity.
